@@ -1,6 +1,6 @@
 # AI Evaluation Framework: Text & Voice
 
-Comprehensive evaluation system for conversational AI, demonstrating systematic testing methodology, iterative improvement, and production-grade safety considerations.
+Comprehensive evaluation system for conversational AI, demonstrating systematic testing methodology, iterative improvement, and safety considerations.
 
 ## Overview
 
